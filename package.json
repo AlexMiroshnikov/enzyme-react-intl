@@ -28,10 +28,10 @@
     "jsonfile": "^2.4.0"
   },
   "peerDependencies": {
-    "enzyme": "^2.7.1",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.2",
-    "react-intl": "^2.2.3"
+    "enzyme": "^3",
+    "react": "^16",
+    "react-dom": "^16",
+    "react-intl": "^2.4.0"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
@@ -43,15 +43,15 @@
     "chai": "^3.5.0",
     "chai-enzyme": "^0.6.1",
     "chai-subset": "^1.4.0",
-    "enzyme": "^2.7.1",
+    "enzyme": "^3",
     "jsdom": "^9.11.0",
     "jsonfile": "^2.4.0",
     "mocha": "^3.2.0",
     "mocha-webpack": "^0.7.0",
-    "react": "^15.4.1",
-    "react-addons-test-utils": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "react-intl": "^2.2.3",
+    "react": "^16",
+    "react-addons-test-utils": "^16",
+    "react-dom": "^16",
+    "react-intl": "^2.4.0",
     "sinon": "^1.17.7",
     "source-map-support": "^0.4.11",
     "webpack": "^2.2.1",
